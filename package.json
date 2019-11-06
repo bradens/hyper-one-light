@@ -1,23 +1,23 @@
 {
-  "name": "hyper-one-light",
-  "version": "1.1.5",
-  "description": "Atom One Light theme for Hyper",
+  "name": "hyper-one-smart",
+  "version": "1.1.6",
+  "description": "One light and dark theme, adaptive to the macos theme",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrepolischuk/hyper-one-light.git"
+    "url": "git+https://github.com/bradens/hyper-one-smart.git"
   },
   "keywords": [
     "hyper",
     "hyper-theme"
   ],
-  "author": "Andrey Polischuk <me@andrepolischuk.com> (https://andrepolischuk.com)",
+  "author": "Braden Simpson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrepolischuk/hyper-one-light/issues"
+    "url": "https://github.com/bradens/hyper-one-smart/issues"
   },
-  "homepage": "https://github.com/andrepolischuk/hyper-one-light"
+  "homepage": "https://github.com/bradens/hyper-one-smart"
 }
