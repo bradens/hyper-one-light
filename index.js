@@ -58,11 +58,11 @@ exports.decorateConfig = config => {
     },
     css: `
       ${config.css || ''}
-
       @media (prefers-color-scheme: dark) {
-        background-color: #222 !important;
+        .tab_tab {
+          background-color: #222 !important;
+        }
       }
-
       .header_header {
         top: 0;
         right: 0;
